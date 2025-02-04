@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.philipstutorial"
+    namespace = "com.example.tutorial8"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.philipstutorial"
+        applicationId = "com.example.tutorial8"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -56,5 +56,4 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-
 }
