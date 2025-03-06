@@ -12,12 +12,16 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/Tutorial2" />
+            <option value="$PROJECT_DIR$/app/tutorial10" />
+            <option value="$PROJECT_DIR$/app/tutorial11" />
             <option value="$PROJECT_DIR$/app/tutorial3" />
             <option value="$PROJECT_DIR$/app/tutorial4" />
             <option value="$PROJECT_DIR$/app/tutorial5" />
             <option value="$PROJECT_DIR$/app/tutorial6" />
             <option value="$PROJECT_DIR$/app/tutorial7" />
             <option value="$PROJECT_DIR$/app/tutorial8" />
+            <option value="$PROJECT_DIR$/app/tutorial9" />
+            <option value="$PROJECT_DIR$/tutorial12" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
