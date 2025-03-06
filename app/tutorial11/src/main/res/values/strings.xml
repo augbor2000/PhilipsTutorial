@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial11</string>
+    <string name="jennifer_doe">Jennifer Doe</string>
+    <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
+    <string name="call">+11 (123) 444 555 666</string>
+    <string name="jen_doe_android_com">jen.doe@android.com</string>
+    <string name="androiddev">\@AndroidDev</string>
+</resources>
